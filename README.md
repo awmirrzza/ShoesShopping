@@ -2,8 +2,6 @@
 made by HTML,CSS,JS,Less,Sass,Bootstrap
 
 
-Based on the provided HTML code, it appears that you have a website template for an online store. Here's a description of the various sections and elements in your HTML:
-
     Header Section:
         The header includes a navigation bar that is fixed to the top of the page.
         It contains links to different sections of your website: Home, Shop, About, and Contact Us.
@@ -21,14 +19,14 @@ Based on the provided HTML code, it appears that you have a website template for
         The third column displays contact information, including telephone number and email address.
 
     Bootstrap and External Libraries:
-        Your page is utilizing several external libraries and frameworks, including Bootstrap, Font Awesome, and Google Fonts. These enhance the styling and functionality of your website.
+        My page is utilizing several external libraries and frameworks, including Bootstrap, Font Awesome, and Google Fonts. These enhance the styling and functionality of my website.
 
     Styling:
-        You have applied custom styles using an external CSS file (style.css).
-        You're also using some custom styles inline in the HTML.
+        I have applied custom styles using an external CSS file (style.css).
+        I'm also using some custom styles inline in the HTML.
 
     Images:
-        Your page references images for the products and logo.
+        My page references images for the products and logo.
 
     Responsive Design:
         The page layout is designed to be responsive, ensuring that it adapts well to different screen sizes and devices.
@@ -37,4 +35,4 @@ Based on the provided HTML code, it appears that you have a website template for
         While not present in the provided code, it's common to have a contact form in the "Contact Us" page where users can submit inquiries.
 
     Social Media Icons:
-        There are no social media icons in the provided code, but you may consider adding them for easy access to your social profiles.
+        There are no social media icons in the provided code, but I may consider adding them for easy access to your social profiles.
