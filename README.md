@@ -31,8 +31,5 @@ made by HTML,CSS,JS,Less,Sass,Bootstrap
     Responsive Design:
         The page layout is designed to be responsive, ensuring that it adapts well to different screen sizes and devices.
 
-    Contact Form:
-        While not present in the provided code, it's common to have a contact form in the "Contact Us" page where users can submit inquiries.
-
     Social Media Icons:
-        There are no social media icons in the provided code, but I may consider adding them for easy access to your social profiles.
+        I added them for easy access to your social profiles.
